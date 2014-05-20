@@ -18,3 +18,5 @@ cd env
 vagrant up
 vagrant ssh
 ```
+
+Now clone your projects in this dir, they will be available at VM on `/nodejs` dir.
