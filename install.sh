@@ -3,7 +3,7 @@
 # vars
 export ROOT_PATH='/nodejs'
 export MONGO_VERSION='2.6.0'
-export NODE_VERSION='0.10.26'
+export NODE_VERSION='0.11.13'
 
 # take ownership of the folders that npm/node use
 sudo mkdir -p /usr/local/{share/man,bin,lib/node,include/node}
